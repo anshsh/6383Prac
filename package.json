@@ -1,0 +1,27 @@
+{
+ "name": "package.json",
+ "version": "1.0.0",
+ "description": "This is an example for deploying code using Heroku and Git",
+ "main": "cw4.js",
+ "scripts": {
+  "start": "node cw4.js", 
+  "test": "\"echo \\\"Error: No test\\\" && exit 1\" "
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/anshsh/6383Prac.git"
+ },
+ "keywords": [
+  "example",
+  "heroku"
+ ],
+ "author": "Ansh, Hamid, Joey",
+ "license": "ISC",
+ "bugs": {
+  "url": "https://github.com/anshsh/6383Prac/issues"
+ },
+ "homepage": "https://github.com/anshsh/6383Prac#readme",
+ "engines": {
+  "node": "10.15.0"
+ }
+}
